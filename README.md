@@ -1,5 +1,20 @@
 # yolo_behavior
 
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif" width="50%" height="50%"/>
+grooming
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif" width="50%" height="50%"/>
+face_washing
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/genital_licking.gif" width="50%" height="50%"/>
+genital_licking
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/head_raising.gif" width="50%" height="50%"/>
+head_raising
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/normal.gif" width="50%" height="50%"/>
+normal
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/rearing.gif" width="50%" height="50%"/>
+rearing
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/wall_supported_rearing.gif" width="50%" height="50%"/>
+wall_supported_rearing
+
  ![!grooming](https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif)
 grooming
  ![!face_washing](https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif)
