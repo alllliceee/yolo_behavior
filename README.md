@@ -1,19 +1,19 @@
 # yolo_behavior
 
- ![!grooming](https://github.com/alllliceee/yolo_behavior/main/gif/grooming.gif)
+ ![!grooming](https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif)
 grooming
- ![!face_washing](https://github.com/alllliceee/yolo_behavior/main/gif/face_washing.gif)
-grooming
- ![!genital_licking](https://github.com/alllliceee/yolo_behavior/main/gif/genital_licking.gif)
-grooming
- ![!head_raising](https://github.com/alllliceee/yolo_behavior/main/gif/head_raising.gif)
-grooming
- ![!normal](https://github.com/alllliceee/yolo_behavior/main/gif/normal.gif)
-grooming
- ![!rearing](https://github.com/alllliceee/yolo_behavior/main/gif/rearing.gif)
-grooming
- ![!wall_supported_rearing](https://github.com/alllliceee/yolo_behavior/main/gif/wall_supported_rearing.gif)
-grooming
+ ![!face_washing](https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif)
+face_washing
+ ![!genital_licking](https://github.com/alllliceee/yolo_behavior/raw/main/gif/genital_licking.gif)
+genital_licking
+ ![!head_raising](https://github.com/alllliceee/yolo_behavior/raw/main/gif/head_raising.gif)
+head_raising
+ ![!normal](https://github.com/alllliceee/yolo_behavior/raw/main/gif/normal.gif)
+normal
+ ![!rearing](https://github.com/alllliceee/yolo_behavior/raw/main/gif/rearing.gif)
+rearing
+ ![!wall_supported_rearing](https://github.com/alllliceee/yolo_behavior/raw/main/gif/wall_supported_rearing.gif)
+wall_supported_rearing
 
 ## Installation
 ```shell
