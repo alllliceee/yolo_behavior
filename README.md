@@ -1,34 +1,24 @@
 # yolo_behavior
 
-<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif" width="50%" height="50%"/>
-grooming
-<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif" width="50%" height="50%"/>
-face_washing
-<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/genital_licking.gif" width="50%" height="50%"/>
-genital_licking
-<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/head_raising.gif" width="50%" height="50%"/>
-head_raising
-<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/normal.gif" width="50%" height="50%"/>
-normal
-<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/rearing.gif" width="50%" height="50%"/>
-rearing
-<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/wall_supported_rearing.gif" width="50%" height="50%"/>
-wall_supported_rearing
+<center class="half">
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif" title="grooming" width="40%" /> 
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif" title="face-washing" width="40%" />
+</center>
 
- ![!grooming](https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif)
 grooming
- ![!face_washing](https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif)
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif" width="40%" height="40%"/>
 face_washing
- ![!genital_licking](https://github.com/alllliceee/yolo_behavior/raw/main/gif/genital_licking.gif)
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif" width="40%" height="40%"/>
 genital_licking
- ![!head_raising](https://github.com/alllliceee/yolo_behavior/raw/main/gif/head_raising.gif)
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/genital_licking.gif" width="40%" height="40%"/>
 head_raising
- ![!normal](https://github.com/alllliceee/yolo_behavior/raw/main/gif/normal.gif)
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/head_raising.gif" width="40%" height="40%"/>
 normal
- ![!rearing](https://github.com/alllliceee/yolo_behavior/raw/main/gif/rearing.gif)
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/normal.gif" width="40%" height="40%"/>
 rearing
- ![!wall_supported_rearing](https://github.com/alllliceee/yolo_behavior/raw/main/gif/wall_supported_rearing.gif)
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/rearing.gif" width="40%" height="40%"/>
 wall_supported_rearing
+<img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/wall_supported_rearing.gif" width="40%" height="40%"/>
 
 ## Installation
 ```shell
