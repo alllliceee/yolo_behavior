@@ -1,19 +1,19 @@
 # yolo_behavior
 
 <figure class="half">
-    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif" title="grooming" width="40%" height="40%" /> 
-    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif" title="face-washing" width="40%" height="40%" />
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/grooming.gif" title="grooming" width="30%" height="30%" /> 
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/face_washing.gif" title="face-washing" width="30%" height="30%" />
 </figure>
 <figure class="half">
-    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/genital_licking.gif" title="genital-licking" width="40%" height="40%" /> 
-    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/head_raising.gif" title="head-raising" width="40%" height="40%" />
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/genital_licking.gif" title="genital-licking" width="30%" height="30%" /> 
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/head_raising.gif" title="head-raising" width="30%" height="30%" />
 </figure>
 <figure class="half">
-    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/normal.gif" title="normal" width="40%" height="40%" /> 
-    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/rearing.gif" title="rearing" width="40%" height="40%" />
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/normal.gif" title="normal" width="30%" height="30%" /> 
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/rearing.gif" title="rearing" width="30%" height="30%" />
 </figure>
 <figure class="half">
-    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/wall_supported_rearing.gif" title="wall-supported-rearing" width="40%" height="40%" />
+    <img src="https://github.com/alllliceee/yolo_behavior/raw/main/gif/wall_supported_rearing.gif" title="wall-supported-rearing" width="30%" height="30%" />
 </figure>
 
 ## Installation
